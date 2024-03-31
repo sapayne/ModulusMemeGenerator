@@ -10,9 +10,9 @@
  - Have a threadpool library I know how to use
  - wrote to not have any tweakable settings
 
-<div align="center" > 
+<div align="center" > 100 Million Entry Stats
   <div> Generated File: </div>
   <img align="center" src="./100MillionFilesize.png" height="50px"> 
-  <div> Running time: </div>
+  <div> Time taken: </div>
   <img align="center" src="./100MillionRunningTime.png" height="161px">
 </div>
